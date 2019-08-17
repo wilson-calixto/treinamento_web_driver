@@ -1,0 +1,4 @@
+ protractor test/conf.js 
+
+ webdriver-manager start
+
