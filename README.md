@@ -23,3 +23,5 @@ If you want to change the API URL to a local server, simply edit `src/js/config/
 <br />
 
 [![Brought to you by Thinkster](https://raw.githubusercontent.com/gothinkster/realworld/master/media/end.png)](https://thinkster.io)
+
+Angular e2e test example using protractor and selenium Web Driver
